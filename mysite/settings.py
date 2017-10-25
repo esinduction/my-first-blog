@@ -25,7 +25,7 @@ SECRET_KEY = 'ygeoaw2ubc4ljzn7hea0ig$^@hx-erf^qprd2+9e8mmqzvu5+x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'esinduction.pythonanywhere.com']
 
 
 # Application definition
